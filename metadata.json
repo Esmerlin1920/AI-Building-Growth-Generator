@@ -1,0 +1,5 @@
+{
+  "name": "AI Building Growth Generator",
+  "description": "Generate a sequence of images simulating the construction of a building from foundation to completion using AI. Describe your building, choose the number of construction stages, and watch it grow.",
+  "requestFramePermissions": []
+}
